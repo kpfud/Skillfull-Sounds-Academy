@@ -1,0 +1,8 @@
+# Ignore OS-generated files (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Ignore temporary editor files
+*.swp
+*.swo
+*.bak
